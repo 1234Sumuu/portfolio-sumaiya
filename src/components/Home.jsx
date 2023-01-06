@@ -1,5 +1,5 @@
 import React from "react";
-import SumuImage from "../assets/SumuImage.png";
+// import SumuImage from "../assets/SumuImage.png";
 
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
